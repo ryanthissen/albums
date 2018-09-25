@@ -25,10 +25,6 @@ const styles = {
         marginLeft: 5,
         marginTop: 10,
     },
-    textStyle: {
-        flexDirection: 'column',
-        justifyContent: 'space-around'
-    }
 };
 
 export default Card;
